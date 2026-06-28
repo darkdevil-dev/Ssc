@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-06-28 08:26:56",
+    "exit_status": "STOPPED/CRASHED",
+    "total_discovered": 150,
+    "downloaded_files": 150,
+    "skipped_files": 0,
+    "failed_files": 0,
+    "accuracy": "100.0%",
+    "processed_exams": [
+        {
+            "exam_name": "SSC_Selection_Post",
+            "elements_found": 150,
+            "sync_status": "PUSH_FAILED"
+        }
+    ]
+}
